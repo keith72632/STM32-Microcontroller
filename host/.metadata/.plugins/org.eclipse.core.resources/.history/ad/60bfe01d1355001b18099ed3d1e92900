@@ -1,0 +1,13 @@
+#include <stdio.h>
+
+int main() {
+	printf("hello world\n");
+	return 0 ;/*
+}
+ * main.c
+ *
+ *  Created on: Jan 12, 2021
+ *      Author: keith
+ */
+
+
